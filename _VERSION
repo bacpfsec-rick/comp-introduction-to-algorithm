@@ -1,0 +1,16 @@
+########################
+# Author: Ruikai Liu   #
+# Date:   2015/01/27   #
+# CurVer:      1       #
+########################
+Version:     1
+Add:
+	insertion_sort.cc		P0018		2015/01/27
+	merge_sort.cc			P0031		2015/01/29
+	bubble_sort.cc			P0040		2015/01/29
+	maximum_subarray.cc		P0071		2015/01/29	
+	matrix_multiplication.cc	P0075~81	2015/02/02
+	randomize_in_place.cc		P0126		2015/02/06
+	online_maximum.cc		P0140		2015/02/06
+	heap.cc				P0152~165	2015/02/06
+	heap_helper.cc			Heap helpers	2015/02/06	
