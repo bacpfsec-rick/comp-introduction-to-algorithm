@@ -1,10 +1,10 @@
-########################
-# Author: Ruikai Liu   #
-# Date:   2015/01/27   #
-# CurVer:      1       #
-########################
-Version:     1
-Add:
+##########################
+# Author: Bacpfsec Rick  #
+# From  :   2015/01/27   #
+##########################
+Description:
+	Coding practice based on Introduction to Algorithms
+History:
 	insertion_sort.cc		P0018		2015/01/27
 	merge_sort.cc			P0031		2015/01/29
 	bubble_sort.cc			P0040		2015/01/29
